@@ -1,0 +1,20 @@
+{
+  "name": "postgre-ts-express",
+  "version": "1.0.0",
+  "description": "This is the boiler plate to start with express with TS and database is  PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/node": "^20.14.12",
+    "@types/node-cron": "^3.0.11",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
